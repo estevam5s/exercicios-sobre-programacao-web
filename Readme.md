@@ -7,79 +7,72 @@ Professor: Esp.Eng.Comp. Vagner Cordeiro
 **Exercícios sobre Programação Web**
 
 1) Como aconteceu a evolução da tecnologia JavaScript no decorrer dos anos?
-1) Qual a diferença entre Java e JavaScript?
-1) Quais as formas de se trabalhar com JavaScript junto com html. Dê exemplos.
-1) Como funciona o processamento do JavaScript em uma página web?
-1) Qual a importância do JavaScript em um projeto Web?
-1) Pesquise e cite quais frameworks para JavaScript existem atualmente no mercado e para que servem?
-1) Qual a principal finalidade de uma variável em Javascript?
-1) Usando a instrução alert, faça um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.”
-1) Quais editores de código javascript podemos utilizar?
-1) Qual é a diferença entre Javascript e Typescript?
-1) O que é um CRUD e como ele funciona?
-1) O que é o XAMPP e como ele funciona?
-1) O que é um servidor Web? Cite exemplos
-1) O que é jQuery? Qual versão do Bootstrap substitui ele? 15)O que é Programação Orientada a Objetos?
+2) Qual a diferença entre Java e JavaScript?
+3) Quais as formas de se trabalhar com JavaScript junto com html. Dê exemplos.
+
+4) Como funciona o processamento do JavaScript em uma página web?
+
+6) Pesquise e cite quais frameworks para JavaScript existem atualmente no mercado e para que servem?
+7) Qual a principal finalidade de uma variável em Javascript?
+8) Usando a instrução alert, faça um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.”
+9) Quais editores de código javascript podemos utilizar?
+10) Qual é a diferença entre Javascript e Typescript?
+11) O que é um CRUD e como ele funciona?
+12) O que é o XAMPP e como ele funciona?
+13) O que é um servidor Web? Cite exemplos
+14) O que é jQuery? Qual versão do Bootstrap substitui ele?
+15)O que é Programação Orientada a Objetos?
 16) O que é ES5 e ES6? Quais são as diferenças?
-16) O que é uma API rest e API restful e para que serve?
-16) O que é requisição AJAX?
+17) O que é uma API rest e API restful e para que serve?
+18) O que é requisição AJAX?
 19) O que é a técnica JSON?
-
-20)O que é e quais são os métodos HTTP? 21)O que é Postman?
-
+20)O que é e quais são os métodos HTTP?
+21)O que é Postman?
 22) O que é Node.JS? E Next.js? Quando devo utilizar?
-22) Qual a diferença entre ANGULAR e ANGULAR JS?
-
-24)O que é NPM (Gerenciador de pacotes Javascript)? Como utilizar? 25)O que é CleanCode? Cite alguns exemplos em Javascript
-
+23) Qual a diferença entre ANGULAR e ANGULAR JS?
+24)O que é NPM (Gerenciador de pacotes Javascript)? Como utilizar
+25) O que é CleanCode? Cite alguns exemplos em Javascript
 26)O que é ASP.NET?
-
 27)O que é o modelo MVC? (Model View Controller)?
-
 28)O que é SASS e SCSS e qual é a diferença de ambos?
-
-29)O que são microserviços? 30) O que é metodologia ágil? E Scrum? 31)O que é UX e UI?
-
+29)O que são microserviços?
+30) O que é metodologia ágil? E Scrum?
+31)O que é UX e UI?
 32)Qual a diferença entre GIT e GITHUB?
-
 33)O que são projetos OpenSources?
-
 34)O que é Docker?
-
 35)O que é Kubernetes?
-
 36)Qual a diferença entre AWS e Azure?
-
-37)Quais os tipos mais comuns de banco de dados utilizados? 38)Para que serve cada uma das linguagens de programação abaixo?
+37)Quais os tipos mais comuns de banco de dados utilizados?
+38)Para que serve cada uma das linguagens de programação abaixo?
 
 1) *Javascript*
-1) *Java*
-1) *PHP*
-1) *C*
+2) *Java*
+3) *PHP*
+4) *C*
 5) *C++*
-5) *C#*
-5) *Python*
+6) *C#*
+7) *Python*
 
-39)Escreva um texto dissertativo relatando as diferenças entre os frameworks React e
-
-Vue Js, explorando as informações da internet para se chegar a uma conclusão de qual melhor framework para se utilizar nos dias atuais.
-
+39)Escreva um texto dissertativo relatando as diferenças entre os frameworks React e Vue Js, explorando as informações da internet para se chegar a uma conclusão de qual melhor framework para se utilizar nos dias atuais.
 40)O que é Google Analytics? Quais serviços ele disponibiliza? <https://www.academiadomarketing.com.br/o-que-e-google-analytics/>
 
 
-<!-- Como aconteceu a evolução da tecnologia JavaScript no decorrer dos anos? -->
+## 1) Como aconteceu a evolução da tecnologia JavaScript no decorrer dos ano
 []: # Title: Como aconteceu a evolução da tecnologia JavaScript no decorrer dos anos?
 []: # Date: 2019-10-01 10:00
 []: # Tags: javascript, evolução, tecnologia
 
 a evolução da tecnologia JavaScript no decorrer dos anos é um assunto que sempre me chamou a atenção, e que sempre me fez pensar em como a tecnologia evoluiu e como ela é importante para o nosso dia a dia.
 
-
-<!-- Qual a diferença entre Java e JavaScript? -->
+## 2) Qual a diferença entre Java e JavaScript?
 javascript é uma linguagem de programação interpretada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma. Já Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems, que foi adquirida pela Oracle Corporation em 2010. A linguagem Java foi criada para ser a linguagem de programação padrão para dispositivos eletrônicos, como televisores, celulares, aparelhos de DVD e Blu-ray, e assim por diante. A linguagem Java é compilada para bytecode, que pode ser executado em qualquer máquina virtual Java (JVM) independente da arquitetura do computador.
 
 
-<!-- Quais as formas de se trabalhar com JavaScript junto com html. Dê exemplos. -->
+## 3) Quais as formas de se trabalhar com JavaScript junto com html. Dê exemplos.
+
+javascript é uma linguagem de programação interpretada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma. Já Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems, que foi adquirida pela Oracle Corporation em 2010. A linguagem Java foi criada para ser a linguagem de programação padrão para dispositivos eletrônicos, como televisores, celulares, aparelhos de DVD e Blu-ray, e assim por diante. A linguagem Java é compilada para bytecode, que pode ser executado em qualquer máquina virtual Java (JVM) independente da arquitetura do computador.
+
 as formas de se trabalhar com JavaScript junto com html são:
 
 - Inserindo o código JavaScript dentro de uma tag script dentro do html.
@@ -94,7 +87,8 @@ as formas de se trabalhar com JavaScript junto com html são:
 - Inserindo o código JavaScript dentro de uma tag script dentro do html, mas com o atributo src, que recebe o caminho do arquivo JavaScript, e com o atributo type, que recebe o valor text/javascript, e com o atributo language, que recebe o valor javascript, e com o atributo defer, que não recebe valor algum, e com o atributo async, que não recebe valor algum, e com o atributo charset, que recebe o valor utf-8, e com o atributo crossorigin, que recebe o valor anonymous, e com o atributo integrity, que recebe o valor sha256-, e com o atributo nonce, que recebe o valor 1234567890.
 - Inserindo o código JavaScript dentro de uma tag script dentro do html, mas com o atributo src, que recebe o caminho do arquivo JavaScript, e com o atributo type, que recebe o valor text/javascript, e com o atributo language, que recebe o valor javascript, e com o atributo defer, que não recebe valor algum, e com o atributo async, que não recebe valor algum, e com o atributo charset, que recebe o valor utf-8, e com o atributo crossorigin, que recebe o valor anonymous, e com o atributo integrity, que recebe o valor sha256-, e com o atributo nonce, que recebe o valor 1234567890, e com o atributo referrerpolicy, que recebe o valor no-referrer.
 
-<!-- Como funciona o processamento do JavaScript em uma página web? -->
+
+## 4) Como funciona o processamento do JavaScript em uma página web?
 O processamento do JavaScript em uma página web é feito da seguinte forma:
 
 - O navegador começa a ler o html.
@@ -102,11 +96,11 @@ O processamento do JavaScript em uma página web é feito da seguinte forma:
 - Quando o navegador termina de ler o JavaScript, ele volta a ler o html.
 
 
-<!-- Qual a importância do JavaScript em um projeto Web? -->
+## 5) Qual a importância do JavaScript em um projeto Web?
 A importância do JavaScript em um projeto Web é que ele é a linguagem de programação que permite que o usuário interaja com a página web.
 
 
-<!-- Pesquise e cite quais frameworks para JavaScript existem atualmente no mercado e para que servem? -->
+## 6) Pesquise e cite quais frameworks para JavaScript existem atualmente no mercado e para que servem?
 Os frameworks para JavaScript existem atualmente no mercado são:
 
 - AngularJS
@@ -178,16 +172,16 @@ e para que servem:
 - React MDL: É um framework para desenvolvimento de aplicações web dinâmicas.
 
 
-<!-- Qual a principal finalidade de uma variável em Javascript? -->
+## 7) Qual a principal finalidade de uma variável em Javascript?
 A principal finalidade de uma variável em Javascript é armazenar um valor.
 
 
-<!-- Usando a instrução alert, faça um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.” -->
+## 8) Usando a instrução alert, faça um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.”
 alert("Bom dia usuário.");
 
 ```html
 
-<!-- Crie um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.” -->
+### Crie um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.” -->
 
 <doctype html>
 <html>
@@ -203,7 +197,7 @@ alert("Bom dia usuário.");
   
 ```
 
-<!-- Quais editores de código javascript podemos utilizar? -->
+## 9) Quais editores de código javascript podemos utilizar?
 Os editores de código javascript que podemos utilizar são:
 
 - Visual Studio Code
@@ -241,10 +235,10 @@ Os editores de código javascript que podemos utilizar são:
 - CoffeeCup Visual Site Designer Pro
 - CoffeeCup Free HTML Editor Pro
 
-<!-- Qual é a diferença entre Javascript e Typescript? -->
+## 10) Qual é a diferença entre Javascript e Typescript?
 A diferença entre Javascript e Typescript é que o Typescript é um superset do Javascript, ou seja, é um Javascript com mais recursos.
 
-<!-- O que é um CRUD e como ele funciona? -->
+## 11) O que é um CRUD e como ele funciona?
 Um CRUD é um conjunto de operações básicas de um banco de dados, que são:
 
 - Create: Cria um novo registro.
@@ -254,12 +248,12 @@ Um CRUD é um conjunto de operações básicas de um banco de dados, que são:
 
 e como ele funciona é que ele é um conjunto de operações básicas de um banco de dados.
 
-<!-- O que é o XAMPP e como ele funciona? -->
+## 12) O que é o XAMPP e como ele funciona?
 O XAMPP é um pacote de software que contém o Apache, o MySQL, o PHP e o Perl, e como ele funciona é que ele é um pacote de software que contém o Apache, o MySQL, o PHP e o Perl.
 
 e como ele funciona é que ele é um pacote de software que contém o Apache, o MySQL, o PHP e o Perl.
 
-<!-- O que é um servidor Web? Cite exemplos -->
+## 13)  O que é um servidor Web? Cite exemplos
 Um servidor Web é um servidor que fornece serviços de rede para a Internet, e os exemplos são:
 
 - Apache
@@ -293,12 +287,12 @@ Um servidor Web é um servidor que fornece serviços de rede para a Internet, e 
 - Tengine
 - Zeus
 
-<!-- O que é jQuery? Qual versão do Bootstrap substitui ele? -->
+## 14) O que é jQuery? Qual versão do Bootstrap substitui ele?
 jQuery é uma biblioteca Javascript, e a versão do Bootstrap que substitui ele é a versão 4.
 O Bootstrap 4 não utiliza mais o jQuery.
 O Bootstrap está na versão 4.5.0.
 
-<!-- O que é Programação Orientada a Objetos? -->
+## 15) O que é Programação Orientada a Objetos?
 Programação Orientada a Objetos é um paradigma de programação que utiliza objetos para representar entidades do mundo real.
 Linguagens de programação que utilizam Programação Orientada a Objetos são:
 
@@ -326,59 +320,59 @@ Linguagens de programação que utilizam Programação Orientada a Objetos são:
 
 POO é muito utilizado em aplicações web, pois é possível criar classes que representam entidades do mundo real, como por exemplo, uma classe que representa um usuário, e essa classe pode ter métodos que representam as ações que um usuário pode fazer, como por exemplo, um método que representa a ação de um usuário se cadastrar no sistema.
 
-<!-- O que é uma classe? -->
+### O que é uma classe? -->
 
 Uma classe é um modelo que representa uma entidade do mundo real, e é utilizado para criar objetos.
 
-<!-- O que é um objeto? -->
+### O que é um objeto? -->
 
 Um objeto é uma instância de uma classe, e é utilizado para representar uma entidade do mundo real.
 
-<!-- O que é um método? -->
+### O que é um método? -->
 
 Um método é uma função que está dentro de uma classe, e é utilizado para representar uma ação que um objeto pode fazer.
 
-<!-- O que é uma propriedade? -->
+### O que é uma propriedade? -->
 
 Uma propriedade é uma variável que está dentro de uma classe, e é utilizado para representar um atributo de um objeto.
 
-<!-- O que é uma interface? -->
+### O que é uma interface? -->
 
 Uma interface é um modelo que representa um conjunto de ações que um objeto pode fazer, e é utilizado para representar um conjunto de ações que um objeto pode fazer.
 
-<!-- O que é uma herança? -->
+### O que é uma herança? -->
 
 Uma herança é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma abstração? -->
+### O que é uma abstração? -->
 
 Uma abstração é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma associação? -->
+### O que é uma associação? -->
 
 Uma associação é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma agregação? -->
+### O que é uma agregação? -->
 
 Uma agregação é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma composição? -->
+### O que é uma composição? -->
 
 Uma composição é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma dependência? -->
+### O que é uma dependência? -->
 
 Uma dependência é um recurso que permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma generalização? -->
+### O que é uma generalização? -->
 
 Uma generalização seria uma classe que herda as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é uma especialização? -->
+### O que é uma especialização? -->
 
 A especialização permite que uma classe herde as propriedades e métodos de outra classe, e é utilizado para representar uma relação de herança entre classes.
 
-<!-- O que é ES5 e ES6? Quais são as diferenças? -->
+## 16) O que é ES5 e ES6? Quais são as diferenças?
 ES5 é a versão 5 do ECMAScript, e ES6 é a versão 6 do ECMAScript, e as diferenças são:
 
 - ES5 não possui classes, e ES6 possui classes.
@@ -393,64 +387,64 @@ ES5 é a versão 5 do ECMAScript, e ES6 é a versão 6 do ECMAScript, e as difer
 - ES5 não possui generators, e ES6 possui generators.
 - ES5 não possui classes, e ES6 possui classes.
 
-<!-- O que é ES7 -->
+### O que é ES7 -->
 ES7 é a versão 7 do ECMAScript, e as diferenças são:
 
 - ES7 não possui async/await, e ES7 possui async/await.
 
-<!-- O que é ES8 -->
+### O que é ES8 -->
 ES8 é a versão 8 do ECMAScript, e as diferenças são:
 
 - ES8 não possui async iterators, e ES8 possui async iterators.
 
-<!-- O que é ES9 -->
+### O que é ES9 -->
 ES9 é a versão 9 do ECMAScript, e as diferenças são:
 
 - ES9 não possui async generators, e ES9 possui async generators.
 
-<!-- O que é ES10 -->
+### O que é ES10 -->
 ES10 é a versão 10 do ECMAScript, e as diferenças são:
 
 - ES10 não possui flat, e ES10 possui flat.
 
-<!-- O que é ES11 -->
+### O que é ES11 -->
 ES11 é a versão 11 do ECMAScript, e as diferenças são:
 
 - ES11 não possui flatMap, e ES11 possui flatMap.
 
-<!-- O que é ES12 -->
+### O que é ES12 -->
 ES12 é a versão 12 do ECMAScript, e as diferenças são:
 
 - ES12 não possui globalThis, e ES12 possui globalThis.
 
-<!-- O que é ES13 -->
+### O que é ES13 -->
 ES13 é a versão 13 do ECMAScript, e as diferenças são:
 
 - ES13 não possui ??, e ES13 possui ??.
 
-<!-- O que é ES14 -->
+### O que é ES14 -->
 ES14 é a versão 14 do ECMAScript, e as diferenças são:
 
 - ES14 não possui BigInt, e ES14 possui BigInt.
 
-<!-- O que é uma API rest e API restful e para que serve? -->
+## 17) O que é uma API rest e API restful e para que serve?
 Uma API rest é uma API que utiliza o protocolo HTTP, e uma API restful é uma API que utiliza o protocolo HTTP e segue os padrões REST, e serve para que um cliente possa consumir os dados de um servidor.
 
-<!-- Exemplos de uma API Rest e uma API e uma API Restful -->
+### Exemplos de uma API Rest e uma API e uma API Restful -->
 Exemplos de uma API http: https://pokeapi.co/api/v2/pokemon/1
 Exemplos de uma API Rest: https://api.github.com/users/rafaelbogfreitas
 Exemplos de uma API Restful: https://api.github.com/users/rafaelbogfreitas
 
-<!-- O que é uma API? -->
+### O que é uma API? -->
 Uma API é uma interface de programação de aplicações, e serve para que um cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma API rest? -->
+### O que é uma API rest? -->
 Uma API rest é uma API que utiliza o protocolo HTTP, e serve para que um cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma API restful? -->
+### O que é uma API restful? -->
 Uma API restful é uma API que utiliza o protocolo HTTP e segue os padrões REST, e serve para que um cliente possa consumir os dados de um servidor.
 
-<!-- O que é requisição AJAX? -->
+## 18) O que é requisição AJAX?
 Uma requisição AJAX é uma requisição assíncrona que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
 Exemplos de uma requisição AJAX:
@@ -469,37 +463,37 @@ Exemplos de uma requisição AJAX:
 
 Mais exemplos de uma requisição AJAX: https://www.w3schools.com/xml/ajax_intro.asp
 
-<!-- O que é uma requisição HTTP? -->
+### O que é uma requisição HTTP? -->
 Uma requisição HTTP é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP GET? -->
+### O que é uma requisição HTTP GET? -->
 Uma requisição HTTP GET é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP POST? -->
+### O que é uma requisição HTTP POST? -->
 Uma requisição HTTP POST é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP PUT? -->
+### O que é uma requisição HTTP PUT? -->
 Uma requisição HTTP PUT é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP DELETE? -->
+### O que é uma requisição HTTP DELETE? -->
 Uma requisição HTTP DELETE é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP PATCH? -->
+### O que é uma requisição HTTP PATCH? -->
 Uma requisição HTTP PATCH é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP OPTIONS? -->
+### O que é uma requisição HTTP OPTIONS? -->
 Uma requisição HTTP OPTIONS é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é uma requisição HTTP HEAD? -->
+### O que é uma requisição HTTP HEAD? -->
 Uma requisição HTTP HEAD é uma requisição que é feita para um servidor, e é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é a técnica JSON? -->
+## 19) O que é a técnica JSON?
 A técnica JSON é uma técnica que é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é a técnica JSONP? -->
+### O que é a técnica JSONP? -->
 A técnica JSONP é uma técnica que é utilizada para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é a técnica CORS? -->
+### O que é a técnica CORS? -->
 A técnica CORS é uma técnica que é utilizada para que o cliente possa consumir os dados de um servidor.
 
 Exemplos de JSON:
@@ -530,85 +524,85 @@ Exemplos de uma aplicação em produção usando JSON
 }
 ```
 
-<!-- O que é e quais são os métodos HTTP? -->
+## 20) O que é e quais são os métodos HTTP?
 Os métodos HTTP são os métodos que são utilizados para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP GET? -->
+### O que é o método HTTP GET? -->
 O método HTTP GET é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP POST? -->
+### O que é o método HTTP POST? -->
 O método HTTP POST é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP PUT? -->
+### O que é o método HTTP PUT? -->
 O método HTTP PUT é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP DELETE? -->
+### O que é o método HTTP DELETE? -->
 O método HTTP DELETE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP PATCH? -->
+### O que é o método HTTP PATCH? -->
 O método HTTP PATCH é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP OPTIONS? -->
+### O que é o método HTTP OPTIONS? -->
 O método HTTP OPTIONS é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP HEAD? -->
+### O que é o método HTTP HEAD? -->
 O método HTTP HEAD é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP CONNECT? -->
+### O que é o método HTTP CONNECT? -->
 O método HTTP CONNECT é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP TRACE? -->
+### O que é o método HTTP TRACE? -->
 O método HTTP TRACE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP COPY? -->
+### O que é o método HTTP COPY? -->
 O método HTTP COPY é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP LINK? -->
+### O que é o método HTTP LINK? -->
 O método HTTP LINK é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP UNLINK? -->
+### O que é o método HTTP UNLINK? -->
 O método HTTP UNLINK é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP PURGE? -->
+### O que é o método HTTP PURGE? -->
 O método HTTP PURGE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP LOCK? -->
+### O que é o método HTTP LOCK? -->
 O método HTTP LOCK é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP UNLOCK? -->
+### O que é o método HTTP UNLOCK? -->
 O método HTTP UNLOCK é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP PROPFIND? -->
+### O que é o método HTTP PROPFIND? -->
 O método HTTP PROPFIND é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP VIEW? -->
+### O que é o método HTTP VIEW? -->
 O método HTTP VIEW é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP PROPPATCH? -->
+### O que é o método HTTP PROPPATCH? -->
 O método HTTP PROPPATCH é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP MKCOL? -->
+### O que é o método HTTP MKCOL? -->
 O método HTTP MKCOL é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP MOVE? -->
+### O que é o método HTTP MOVE? -->
 O método HTTP MOVE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP REPORT? -->
+### O que é o método HTTP REPORT? -->
 O método HTTP REPORT é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP CHECKOUT? -->
+### O que é o método HTTP CHECKOUT? -->
 O método HTTP CHECKOUT é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP MERGE? -->
+### O que é o método HTTP MERGE? -->
 O método HTTP MERGE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP M-SEARCH? -->
+### O que é o método HTTP M-SEARCH? -->
 O método HTTP M-SEARCH é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é o método HTTP NOTIFY? -->
+### O que é o método HTTP NOTIFY? -->
 O método HTTP NOTIFY é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
-<!-- O que é Postman? -->
+## 21) O que é Postman?
 Postman é uma ferramenta que é utilizada para testar requisições HTTP.
 - Testar requisições HTTP
 - É usado junto com o Insomnia? Não, o Insomnia é uma ferramenta que é utilizada para testar requisições HTTP.
@@ -619,11 +613,11 @@ Onde podemos utilizar o Postman?
 
 O Postman pode ser utilizado para testar requisições HTTP em qualquer lugar, seja em um servidor local ou em um servidor remoto.
 
-<!-- O que é o método HTTP SUBSCRIBE? -->
+### O que é o método HTTP SUBSCRIBE? -->
 O método HTTP SUBSCRIBE é um método que é utilizado para que o cliente possa consumir os dados de um servidor.
 
 
-<!-- O que é Node.JS? E Next.js? Quando devo utilizar? -->
+## 22) O que é Node.JS? E Next.js? Quando devo utilizar?
 Node.js é uma plataforma de desenvolvimento de aplicações web que é baseada em JavaScript.
 Next.js é um framework que é utilizado para desenvolver aplicações web que são baseadas em JavaScript.
 
@@ -642,62 +636,62 @@ Quais os bancos de dados o Node.js e o Next.js suportam?
 
 O Node.js e o Next.js suportam os bancos de dados MySQL, PostgreSQL, MongoDB, SQLite, Oracle, SQL Server, MariaDB, etc.
 
-<!-- Qual a diferença entre ANGULAR e ANGULAR JS? -->
+## 23) Qual a diferença entre ANGULAR e ANGULAR JS?
 Angular é um framework que é utilizado para desenvolver aplicações web que são baseadas em JavaScript.
 AngularJS é um framework diferente do Angular, pois o AngularJS é um framework que é utilizado para desenvolver aplicações web que são baseadas em JavaScript, já o Angular é um framework que é utilizado para desenvolver aplicações web que são baseadas em JavaScript.
 
 A diferença entre os dois não é muito grande
 
-<!-- O que é NPM (Gerenciador de pacotes Javascript)? Como utilizar? -->
+## 24) O que é NPM (Gerenciador de pacotes Javascript)? Como utilizar?
 NPM é um gerenciador de pacotes que é utilizado para gerenciar pacotes que são baseados em JavaScript.
 
 como posso utilizar o npm?
 
 O npm pode ser utilizado para gerenciar pacotes que são baseados em JavaScript.
 
-<!-- O que é YARN (Gerenciador de pacotes Javascript)? Como utilizar? -->
+### O que é YARN (Gerenciador de pacotes Javascript)? Como utilizar? -->
 Yarn é um gerenciador de pacotes que é utilizado para gerenciar pacotes que são baseados em JavaScript.
 
 como posso utilizar o yarn?
 
 O yarn pode ser utilizado para gerenciar pacotes que são baseados em JavaScript.
 
-<!-- O que é o nvm?  -->
+### O que é o nvm?  -->
 O nvm é um gerenciador de versões que é utilizado para gerenciar versões que são baseadas em JavaScript.
 
-<!-- O que é o npx?  -->
+### O que é o npx?  -->
 
 O npx é um gerenciador de pacotes que é utilizado para gerenciar pacotes que são baseados em JavaScript.
 
-<!-- O que é o npm init?  -->
+### O que é o npm init?  -->
 
 O npm init é um comando que é utilizado para inicializar um projeto que é baseado em JavaScript.
 
-<!-- O que é o npm install?  -->
+### O que é o npm install?  -->
 
 O npm install é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- O que é o npm install -g?  -->
+### O que é o npm install -g?  -->
 
 O npm install -g é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- O que é o npm install -D?  -->
+### O que é o npm install -D?  -->
 
 O npm install -D é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- O que é o npm install -S?  -->
+### O que é o npm install -S?  -->
 
 O npm install -S é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- O que é o npm install -E?  -->
+### O que é o npm install -E?  -->
 
 O npm install -E é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- O que é o npm install -B?  -->
+### O que é o npm install -B?  -->
 
 O npm install -B é um comando que é utilizado para instalar um pacote que é baseado em JavaScript.
 
-<!-- Como posso iniciar um projeto usando o npm -->
+### Como posso iniciar um projeto usando o npm -->
 
 O npm init é um comando que é utilizado para inicializar um projeto que é baseado em JavaScript.
 
@@ -752,7 +746,7 @@ resultado:
   "license": "ISC"
 }
 
-<!-- O que é CleanCode? Cite alguns exemplos em Javascript -->
+## 25) O que é CleanCode? Cite alguns exemplos em Javascript
 
 CleanCode é um conceito que é utilizado para escrever um código que é baseado em JavaScript.
 
@@ -941,7 +935,7 @@ main()
 
 ```
 
-<!-- O que é o Prisma? -->
+### O que é o Prisma? -->
 
 O Prisma é um ORM que é utilizado para conectar uma API Rest com um banco de dados.
 
@@ -967,7 +961,7 @@ main()
 
 ```
 
-<!-- O que é o ORM? -->
+### O que é o ORM? -->
 
 O ORM é um mapeamento objeto-relacional que é utilizado para conectar uma API Rest com um banco de dados.
 
@@ -999,7 +993,7 @@ const User = sequelize.define('User', {
 
 ```
 
-<!-- O que é o Sequelize? -->
+### O que é o Sequelize? -->
 
 O Sequelize é um ORM que é utilizado para conectar uma API Rest com um banco de dados.
 
@@ -1053,7 +1047,7 @@ export class AppController {
 
 ```
 
-<!-- O que é ASP.NET? -->
+## 26) O que é ASP.NET?
 
 O ASP.NET é um framework que é utilizado para criar aplicações web.
 
@@ -1082,7 +1076,7 @@ namespace WebApplication1
 
 ```
 
-<!-- O que é o modelo MVC? (Model View Controller)? -->
+## 27) O que é o modelo MVC? (Model View Controller)?
 
 O modelo MVC é um padrão de arquitetura de software que é utilizado para criar aplicações web.
 
@@ -1123,7 +1117,7 @@ export class AppController {
 
 ```
 
-<!-- O que é SASS e SCSS e qual é a diferença de ambos? -->
+## 28) O que é SASS e SCSS e qual é a diferença de ambos?
 
 SASS e SCSS são pré-processadores de CSS que são utilizados para criar estilos em aplicações web.
 
@@ -1152,7 +1146,7 @@ O SASS é uma linguagem de script que é utilizada para criar estilos em aplica�
 
 O SASS usa a sintaxe de identação para criar estilos em aplicações web.
 
-<!-- O que são microserviços? -->
+## 29) O que são microserviços?
 
 Microserviços são uma arquitetura de software que é utilizada para criar aplicações web.
 
@@ -1164,7 +1158,7 @@ Quais framework usam microserviços?
 - Laravel
 
 
-<!-- O que é metodologia ágil? E Scrum? -->
+## 30) O que é metodologia ágil? E Scrum?
 
 Metodologia ágil é um conjunto de práticas que são utilizadas para criar aplicações web.
 
@@ -1239,7 +1233,7 @@ Sprint Retrospective
 
 ```
 
-<!-- O que é o TDD? -->
+### O que é o TDD? -->
 
 TDD é uma metodologia que é utilizada para criar aplicações web.
 
@@ -1261,7 +1255,7 @@ describe('Teste', () => {
 
 ```
 
-<!-- O que é o BDD? -->
+### O que é o BDD? -->
 
 BDD é uma metodologia que é utilizada para criar aplicações web.
 
@@ -1283,7 +1277,7 @@ Feature: Teste
 
 ```
 
-<!-- O que é o DDD? -->
+### O que é o DDD? -->
 
 DDD é uma metodologia que é utilizada para criar aplicações web.
 
@@ -1307,7 +1301,7 @@ class User {
 
 ```
 
-<!-- O que é o CI/CD? -->
+### O que é o CI/CD? -->
 
 CI/CD é uma metodologia que é utilizada para criar aplicações web.
 
@@ -1326,7 +1320,7 @@ Continuous Deployment
 ```
 
 
-<!-- O que é UX e UI? -->
+## 31) O que é UX e UI?
 
 UX e UI são metodologias que são utilizadas para criar aplicações web.
 
@@ -1420,7 +1414,7 @@ diferença entre UX e UI?
 
 A diferença entre UX e UI é que UX é experiência do usuário e UI é interface do usuário.
 
-<!-- O que é o SEO? -->
+### O que é o SEO? -->
 
 SEO é uma metodologia que é utilizada para criar aplicações web.
 
@@ -1434,7 +1428,7 @@ Search Engine Optimization
 
 ```
 
-<!-- Qual a diferença entre GIT e GITHUB? -->
+## 32) Qual a diferença entre GIT e GITHUB?
 
 A diferença entre GIT e GITHUB é que GIT é um sistema de controle de versão e GITHUB é um repositório de código.
 
@@ -1450,7 +1444,7 @@ GITHUB
 
 ```
 
-<!-- O que é o GIT? -->
+### O que é o GIT? -->
 
 GIT é um sistema de controle de versão.
 
@@ -1569,7 +1563,7 @@ GIT
 
 ```
 
-<!-- O que é o GITHUB? -->
+### O que é o GITHUB? -->
 
 GITHUB é um repositório de código.
 
@@ -1597,7 +1591,7 @@ gist do github
 
 ```
 
-<!-- O que é o GITHUB Pages? -->
+### O que é o GITHUB Pages? -->
 
 GITHUB Pages é um repositório de código.
 
@@ -1611,7 +1605,7 @@ GITHUB Pages
 
 ```
 
-<!-- O que é o GITHUB Actions? -->
+### O que é o GITHUB Actions? -->
 
 
 serve para automatizar processos.
@@ -1704,7 +1698,7 @@ jobs:
 ```
 
 
-<!-- O que são projetos OpenSources? -->
+## 33)  O que são projetos OpenSources?
 
 projetos OpenSources são projetos que podem ser utilizados por qualquer pessoa.
 São gratuitos e podem ser utilizados para fins comerciais.
@@ -1803,7 +1797,7 @@ Sim, O Insomnia é um projeto OpenSource.
 O que é o Insomnia?
 O Insomnia é um editor de código.
 
-<!-- O que é o Docker? -->
+## 34) O que é o Docker?
 
 O Docker é uma plataforma que é utilizada para criar aplicações web e mobile.
 Docker pode ser utilizado com qualquer linguagem de programação.
@@ -2061,7 +2055,7 @@ services:
 
 ```
 
-<!-- O que é o Docker Swarm? -->
+# O que é o Docker Swarm?
 
 O Docker Swarm é uma plataforma que é utilizada para criar aplicações web.
 
@@ -2165,7 +2159,7 @@ CMD ["app.py"]
 
 ```
 
-<!-- O que é o Kubernetes? -->
+## 35) O que é o Kubernetes?
 
 O Kubernetes é uma plataforma que é utilizada para criar aplicações web.
 
@@ -2259,7 +2253,7 @@ services:
 
 ```
 
-<!-- Qual a diferença entre AWS e Azure? -->
+## 36) Qual a diferença entre AWS e Azure?
 
 A diferença entre AWS e Azure é que o AWS é uma plataforma que é utilizada para criar aplicações web e o Azure é uma plataforma que é utilizada para criar aplicações web.
 
@@ -2267,15 +2261,15 @@ A diferença entre AWS e Azure é que o AWS é uma plataforma que é utilizada p
 
 A diferença entre AWS e GCP é que o AWS é uma plataforma que é utilizada para criar aplicações web e o GCP é uma plataforma que é utilizada para criar aplicações web.
 
-<!-- Qual a diferença entre AWS e Digital Ocean? -->
+### Qual a diferença entre AWS e Digital Ocean? -->
 
 A diferença entre AWS e Digital Ocean é que o AWS é uma plataforma que é utilizada para criar aplicações web e o Digital Ocean é uma plataforma que é utilizada para criar aplicações web.
 
-<!-- Qual a diferença entre AWS e Heroku? -->
+### Qual a diferença entre AWS e Heroku? -->
 
 A diferença entre AWS e Heroku é que o AWS é uma plataforma que é utilizada para criar aplicações web e o Heroku é uma plataforma que é utilizada para criar aplicações web.
 
-<!-- Qual a diferença entre AWS e IBM Cloud? -->
+### Qual a diferença entre AWS e IBM Cloud? -->
 
 A diferença entre AWS e IBM Cloud é que o AWS é uma plataforma que é utilizada para criar aplicações web e o IBM Cloud é uma plataforma que é utilizada para criar aplicações web.
 
@@ -2423,7 +2417,7 @@ Não, o AWS lambda não é uma plataforma de computação em nuvem privada.
 
 
 
-<!-- Quais os tipos mais comuns de banco de dados utilizados? -->
+## 37) Quais os tipos mais comuns de banco de dados utilizados?
 
 Quais os tipos mais comuns de banco de dados utilizados?
 
@@ -2650,26 +2644,22 @@ module.exports = new App().express;
 
 ```
 
-<!-- Para que serve cada uma das linguagens de programação abaixo?
+## 38) Para que serve cada uma das linguagens de programação abaixo?
 
-Javascript
+1) Javascript
 
-Java
+2) Java
 
-PHP
+3) PHP
 
-C
+4) C
 
-C++
+5) C++
 
-C#
+6) C#
 
-Python
- -->
+7) Python
 
-Para que serve cada uma das linguagens de programação abaixo?
-
-Javascript
 
 Javascript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma (protótipo, orientada a objeto, imperativa e, funcional).
 
@@ -2697,7 +2687,7 @@ Python
 
 Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
 
-<!-- Escreva um texto dissertativo relatando as diferenças entre os frameworks React e Vue Js, explorando as informações da internet para se chegar a uma conclusão de qual melhor framework para se utilizar nos dias atuais. -->
+## 39) Escreva um texto dissertativo relatando as diferenças entre os frameworks React e Vue Js, explorando as informações da internet para se chegar a uma conclusão de qual melhor framework para se utilizar nos dias atuais.
 
 
 React
@@ -2735,7 +2725,7 @@ Vue.js é um framework progressivo para construção de interfaces de usuário. 
 
 informações retiradas do site: https://www.devmedia.com.br/vue-js-framework-para-construcao-de-interfaces-de-usuario/40601
 
-<!-- O que é o Google Analytics? -->
+## 40) O que é o Google Analytics?
 
 Google Analytics é uma metodologia que é utilizada para criar aplicações web.
 seria uma ferramenta de análise de dados, que permite que você analise o comportamento dos usuários em seu site, como por exemplo, quantas pessoas acessaram seu site, quantas pessoas acessaram sua página, quantas pessoas clicaram em um determinado link, quantas pessoas clicaram em um determinado botão, quantas pessoas acessaram seu site por meio de um determinado dispositivo, quantas pessoas acessaram seu site por meio de um determinado navegador, quantas pessoas acessaram seu site por meio de um determinado sistema operacional, quantas pessoas acessaram seu site por meio de um determinado país, quantas pessoas acessaram seu site por meio de um determinado estado, quantas pessoas acessaram seu site por meio de um determinado mês, quantas pessoas acessaram seu site por meio de um determinado dia, quantas pessoas acessaram seu site por meio de um determinado horário, quantas pessoas acessaram seu site por meio de um determinado dia da semana, quantas pessoas acessaram seu site por meio de um determinado tipo de dispositivo, quantas pessoas acessaram seu site por meio de um determinado tipo de navegador, quantas pessoas acessaram seu site por meio de um determinado tipo de sistema operacional, quantas pessoas acessaram seu site por meio de um determinado tipo de país, quantas pessoas acessaram seu site por meio de um determinado tipo de estado, quantas pessoas acessaram seu site por meio de um determinado tipo de mês, quantas pessoas acessaram seu site por meio de um determinado tipo de dia, quantas pessoas acessaram seu site por meio de um determinado tipo de horário, quantas pessoas acessaram seu site por meio de um determinado tipo de dia da semana, quantas pessoas acessaram seu site por meio de um determinado tipo de dispositivo, quantas pessoas acessaram seu site por meio de um determinado tipo de navegador, quantas pessoas acessaram seu site por meio de um determinado tipo de sistema operacional, quantas pessoas acessaram seu site por meio de um determinado tipo de país, quantas pessoas acessaram seu site por meio de um determinado tipo de estado, quantas pessoas acessaram seu site por meio de um determinado tipo de mês, quantas pessoas acessaram seu site por meio de um determinado tipo de dia, quantas pessoas acessaram seu site por meio
@@ -2752,7 +2742,7 @@ Google Analytics
 
 ```
 
-<!-- O que é o Google Tag Manager? -->
+### O que é o Google Tag Manager? -->
 
 Google Tag Manager é uma metodologia que é utilizada para criar aplicações web.
 
@@ -2766,7 +2756,7 @@ Google Tag Manager
 
 ```
 
-<!-- O que é o Google Search Console? -->
+### O que é o Google Search Console? -->
 
 Google Search Console é uma metodologia que é utilizada para criar aplicações web.
 
